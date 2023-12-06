@@ -1,4 +1,4 @@
-# Expo Reanimated Layout Animation
+# Reanimated Layout Animation
 
 This was supposed to be a repodruction for https://github.com/software-mansion/react-native-reanimated/issues/4516 but it seems to be working fine.
 
